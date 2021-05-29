@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Miranda Medeiros</h1>
-<h3 align="center">I am recent graduated in telematics looking for opportunities and collabaration in projects related to data science and machine learning. Researcher at Research Group on Communications Systems and Information Processing(GComPI)</h3>
+<h3 align="center">I am recent graduated in telematics looking for opportunities and collabaration in projects related to data science and machine learning. </h3>
+<h3 align="center"> Researcher at Research Group on Communications Systems and Information Processing(GComPI). </h3>
 
 - 🔭 I’m currently working on [IEEE802154g adaptive modulation](https://github.com/DiegomMedeiros/IEEE802154g-adaptive-modulation)
 
